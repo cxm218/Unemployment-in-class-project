@@ -5,3 +5,6 @@ requests
 plotly
 
 python-dotenv
+
+#for testing
+pytest
