@@ -35,7 +35,6 @@ python app/unemployment.py
 python -m app.unemployment
 
 ```
-
 Run the web app using the following code: 
 
 # Mac OS
